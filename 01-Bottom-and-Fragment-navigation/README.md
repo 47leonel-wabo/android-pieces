@@ -3,7 +3,6 @@
 Base project illustrating navigation component with bottom nav using different fragments.
 
 # Screenshots
-![home]()
-<img src="./screenshots/home.png" width="200" />
-![chats](./screenshots/chats.png)
-![archives](./screenshots/archives.png)
+<img src="./screenshots/home.png" width="2500" />
+<img src="./screenshots/chats.png" width="250" />
+<img src="./screenshots/archives.png" width="250" />
