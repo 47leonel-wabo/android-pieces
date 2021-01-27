@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">01-Bottom-and-Fragment-navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_txt">Home</string>
+    <string name="chats_txt">Chats</string>
+    <string name="archived_txt">Archived</string>
+    <string name="home_txt">Home</string>
 </resources>
